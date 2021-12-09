@@ -1,0 +1,33 @@
+.header{
+    font-size: 25px;
+    width: 100%;
+    box-shadow: 5px 5px 5px white;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.note{
+   font-size: 16px;
+   color: red; 
+   text-align: center;
+   text-shadow: 5px 5px 5px white;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.copyright-footer{
+    position: fixed;
+    background-color: grey;
+    color: white;
+    bottom: 0;
+    text-shadow: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px pink;
+}
